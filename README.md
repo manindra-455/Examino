@@ -76,7 +76,7 @@ Examino/
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/examino.git
+   git clone https://github.com/manindra-455/examino.git
    cd examino
    ```
 
